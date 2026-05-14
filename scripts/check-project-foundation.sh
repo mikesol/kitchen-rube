@@ -6,6 +6,7 @@ required_files=(
   "README.md"
   "docs/concept/wall-field.md"
   "docs/mechanisms/README.md"
+  "docs/mechanisms/index.md"
   "docs/mechanisms/mechanism-template.md"
   "experiments/README.md"
   "experiments/experiment-template.md"
