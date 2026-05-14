@@ -6,4 +6,6 @@ Create one dossier per meaningful mechanism idea, proof, or integrated assembly.
 
 Phase 2 dossiers are composition anchors. They identify mechanisms that shape the wall: trigger area, routing decisions, stored energy, marble travel, and gong-court strikes.
 
-The broader creative mechanism-language phase comes next. Domino languages, clever funnels, kitchen-tool levers, object jokes, and route-specific variations can stay in `index.md` until they are important enough to become dossiers.
+Phase 3 stocks the pantry. Broad ideas, wild variants, prior-art prompts, kitchen-tool transfers, route identities, and cross-category hybrids belong in `pantry.md`.
+
+Do not promote new full dossiers early in Phase 3. Use the pantry to get ideas out of the system first, then run an end-of-phase promotion pass for the strongest or riskiest candidates.

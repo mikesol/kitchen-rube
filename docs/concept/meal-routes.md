@@ -28,3 +28,13 @@ The route design is intentionally provisional. The machine should not look like 
 The routes should share neighborhoods, cross, wake dormant mechanisms, and use repeated mechanism families in different languages.
 
 These identities are not final tracks. They are starting constraints for future mechanism-language work.
+
+## Phase 3 Pantry Pass
+
+Phase 3 should deepen these identities through breadth before choosing final tracks.
+
+- Breakfast pantry bias: quick, bright, light, upward, crisp, ricocheting, wake-up mechanisms.
+- Lunch pantry bias: balanced, switchable, field-crossing, social, midpoint, scale, and pendulum mechanisms.
+- Dinner pantry bias: slower, heavier, visibly armed, delayed, weighted, and locally stored-energy mechanisms.
+
+Shared mechanism families can appear in all three routes, but each route should reveal a different internal logic.

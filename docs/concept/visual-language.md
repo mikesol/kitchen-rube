@@ -16,3 +16,9 @@ They can share the same physical neighborhood while revealing different internal
 
 - Common mechanisms: 1-5 in. projection.
 - Theatrical mechanisms: 6-10 in. projection, preferably high or toward the right/back.
+
+## Phase 3 Prior Art
+
+Use prior art as vocabulary expansion, not as authority. Historical mechanical movements, automata, clockwork, kitchen gadgets, toys, marble machines, and chain reactions should be consulted after free invention passes so they enrich the pantry without making the project conservative.
+
+Every borrowed or inspired movement still has to earn its place by doing causal work on this wall.
