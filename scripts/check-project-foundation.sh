@@ -7,6 +7,8 @@ required_files=(
   "docs/concept/wall-field.md"
   "docs/mechanisms/README.md"
   "docs/mechanisms/mechanism-template.md"
+  "experiments/README.md"
+  "experiments/experiment-template.md"
   "photos/reference/kitchen-wall.jpg"
 )
 
