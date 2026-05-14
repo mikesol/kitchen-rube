@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+required_files=(
+  ".gitignore"
+  "README.md"
+)
+
+required_dirs=(
+  "docs/concept"
+  "docs/build-log"
+  "docs/mechanisms"
+  "docs/sourcing"
+  "docs/safety"
+  "design/wall-layout"
+  "design/sketches"
+  "design/cad"
+  "design/stl"
+  "experiments"
+  "photos/reference"
+  "photos/build"
+  "manual/assembly"
+)
+
+for path in "${required_files[@]}"; do
+  if [[ ! -f "$path" ]]; then
+    echo "missing file: $path"
+    exit 1
+  fi
+done
+
+for path in "${required_dirs[@]}"; do
+  if [[ ! -d "$path" ]]; then
+    echo "missing directory: $path"
+    exit 1
+  fi
+done
+
+echo "project foundation structure ok"
