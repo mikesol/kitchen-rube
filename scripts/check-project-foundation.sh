@@ -15,6 +15,10 @@ required_files=(
   "manual/assembly/README.md"
   "docs/safety/mounting.md"
   "docs/safety/stored-energy.md"
+  "docs/concept/visual-language.md"
+  "docs/concept/meal-routes.md"
+  "design/wall-layout/README.md"
+  "design/wall-layout/active-field.svg"
 )
 
 required_dirs=(
