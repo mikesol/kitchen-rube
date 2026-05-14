@@ -4,6 +4,8 @@ set -euo pipefail
 required_files=(
   ".gitignore"
   "README.md"
+  "docs/concept/wall-field.md"
+  "photos/reference/kitchen-wall.jpg"
 )
 
 required_dirs=(
