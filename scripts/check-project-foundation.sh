@@ -10,6 +10,11 @@ required_files=(
   "experiments/README.md"
   "experiments/experiment-template.md"
   "photos/reference/kitchen-wall.jpg"
+  "manual/README.md"
+  "manual/reset-and-run.md"
+  "manual/assembly/README.md"
+  "docs/safety/mounting.md"
+  "docs/safety/stored-energy.md"
 )
 
 required_dirs=(
