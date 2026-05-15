@@ -12,7 +12,7 @@ Entries may be wild, funny, overbuilt, or culturally specific. They still need t
 - Keep them organized by shelf so later passes can go deeper.
 - Add new shelves when the pantry reveals a useful distinction.
 - Do not assign exact wall coordinates.
-- Use loose fit tags only when helpful: `trigger`, `route-field`, `gong-court`, `high-wall`, `lower-caution`, `stored-energy-risk`, `compact`, `wide`, `shared`, `breakfast`, `lunch`, `dinner`, `delay`, `sequencer`, `transfer`, `sorter`, `reset`, `safety`, `kitchen-object`, `prior-art-prompt`.
+- Use loose fit tags only when helpful: `trigger`, `route-field`, `gong-court`, `high-wall`, `lower-caution`, `stored-energy-risk`, `compact`, `wide`, `shared`, `breakfast`, `lunch`, `dinner`, `delay`, `sequencer`, `transfer`, `sorter`, `reset`, `safety`, `kitchen-object`, `prior-art-prompt`, `rotary`, `gear`, `track`, `large-ball`, `latch`.
 - Defer full dossier promotion until the end of Phase 3.
 
 ## Pass Method
@@ -101,10 +101,14 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Breakfast BB ricochet** - a small steel ball rebounds off a hard anvil into a high-gong release, giving a bright and quick route identity. `breakfast`, `gong-court`
 - **Lunch double-rail crossing** - two balls pass through the same crossing at different heights, making shared field logic visible. `lunch`, `route-field`
 - **Dinner slow cannonball** - a larger captured ball rolls slowly through a trough and trips a heavier latch. `dinner`, `stored-energy-risk`
+- **Ceremonial cue-ball traveler** - one larger cue-ball-like rolling body crosses only a short, well-contained route, making a visually major transfer without letting heavy mass roam freely. `large-ball`, `dinner`, `stored-energy-risk`, `track`
 - **Twin-rail marble line** - adjustable parallel rails carry balls while exposing motion and allowing easy tuning. `route-field`
 - **Captured clear tube drop** - a ball drops through a transparent tube to preserve safety and readability. `route-field`, `compact`, `clarity: clear`
+- **Transparent drop-tube relay** - a vertical clear tube drops a ball into a cup, latch, or rocker below, preserving gravity drama while making the falling body impossible to escape. `track`, `route-field`, `safety`
+- **Captured channel overpass** - a shallow covered channel lets a ball pass over another route or moving lever without entering the same physical lane. `track`, `shared`, `route-field`
 - **Helix descent** - a spiral slows a ball without hiding it, useful for anticipation before a release. `delay`, `dinner`
 - **Switchback trough** - a ball changes horizontal direction several times, extending travel time in a shallow footprint. `route-field`
+- **Trough-to-drop-tube handoff** - a broad trough gathers a ball and feeds it into a narrow vertical tube, converting loose horizontal rolling into precise captured descent. `track`, `transfer`
 - **Ball elevator teeter** - one falling ball lifts another staged ball using a seesaw, transferring route energy locally. `route-field`
 - **Marble magazine** - several balls are held in a queue and released one at a time to create a short sequence. `sequencer`
 - **Ball-bearing rain in a cage** - multiple small balls fall inside a contained channel and collectively tip a weighted plate. `stored-energy-risk`, `route-field`
@@ -129,6 +133,8 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Tea-strainer capture** - a mesh strainer catches a falling ball softly and swings into a latch release. `route-field`, `compact`
 - **Funnel delay orbit** - a ball circles before escaping through an offset hole, acting as a compact time delay. `delay`
 - **Trapdoor chute** - a ball passes over a floor that drops after it exits, preventing backflow and recording state. `sequencer`
+- **Stepped gate ladder** - a falling tab opens the first small gate, letting a ball drop one shelf lower, where it opens the next gate. The ball descends in visible steps instead of one uncontrolled fall. `sequencer`, `track`
+- **Stair-step release comb** - a sliding comb exposes several gate notches one after another, so a row of balls or tabs releases in a deliberate stagger rather than all at once. `sequencer`, `latch`, `clarity: needs-rewrite`
 - **Flip-flop gate** - a small seesaw gate has two stable positions. The first ball rolls through and tips the gate left, so the next ball is sent right; that ball tips the gate back, so the following ball is sent left. `sequencer`, `clarity: expanded`, `clarity: needs-storyboard`, `art: three-frame storyboard`
 - **One-way spoon gate** - a hinged spoon bowl allows travel in one direction and blocks reset-direction motion. `route-field`
 - **Scale-pan diverter** - a ball lands in one pan of a miniature scale, tipping the opposite chute into position. `lunch`
@@ -160,6 +166,19 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Pan-handle lever** - a recognizable handle projects from the wall and converts a pull into a hidden bell-crank motion. `trigger`
 - **Meat-thermometer pointer** - a pointer needle indicates armed state and can be mechanically linked to a latch position. `reset`
 
+## Rotary Transfers, Gears, Cams, And Drums
+
+- **Visible idler gear pair** - an input gear turns a second gear in the opposite direction, reversing rotary motion so a pull on one side can open a gate on the other. `gear`, `rotary`, `transfer`, `clarity: clear`
+- **Meal-ratio gear train** - breakfast, lunch, and dinner can drive different gear ratios so similar input motion produces different timing or travel distance. `gear`, `shared`, `delay`, `clarity: needs-prior-art`
+- **Rack-and-pinion lift** - a falling weight or sliding tab pulls a toothed rack, turning a small gear that lifts a latch or raises a marble gate. `gear`, `transfer`, `latch`
+- **Segment gear hesitation** - a partial gear engages only for part of its rotation, creating a motion gap before a follower moves. `gear`, `delay`, `clarity: needs-prior-art`
+- **Cam-and-follower spoon tapper** - a rotating cam lifts a spoon-like follower and drops it once per turn, useful for a timed latch trip or small striker. `rotary`, `sequencer`, `kitchen-object`
+- **Snail cam dinner dwell** - a slow cam holds a follower still through most of the turn, then releases it suddenly near the end for a dinner countdown. `rotary`, `delay`, `dinner`, `clarity: needs-prior-art`
+- **Ratchet drum sequencer** - a drum advances one tooth per ball impact or lever stroke, with pins on the drum tripping gates in a programmed order. `rotary`, `sequencer`, `latch`
+- **Recipe-card barrel drum** - a horizontal drum carries removable tabs or pegs like recipe cards; as it rotates, each peg bumps a different lever. `rotary`, `sequencer`, `kitchen-object`
+- **Rolling-pin winding drum** - a rolling pin winds cord during reset, then unwinds slowly to drive a visible delay or lift a small latch. `rotary`, `reset`, `stored-energy-risk`
+- **Gear-to-pulley translator** - a small gear train turns a spool, converting rotary indexing into a short cord pull for a remote latch. `gear`, `rotary`, `transfer`
+
 ## Delays, Escapements, Timers, And Hesitation Devices
 
 - **Pendulum tick gate** - a pendulum allows a ratchet to advance one tooth per swing. `delay`, `lunch`
@@ -184,6 +203,8 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Gravity hammer** - a lifted hammer falls only when a low-energy latch is tripped. `gong-court`, `dinner`, `stored-energy-risk`, `clarity: clear`
 - **Counterweighted gate** - a small signal releases a counterweight that opens a larger path. `route-field`
 - **Cocked spoon flicker** - a spoon held under spring or elastic tension flicks a ball or tab when released. `breakfast`
+- **Mousetrap-style snap latch** - a spring-loaded arm is held by a small trigger pin, then snaps through a short guarded stroke to knock a tab, pull a cord, or trip a latch. `latch`, `stored-energy-risk`, `safety`
+- **Snap-over safety cartridge** - a self-contained spring latch module has a visible safe pin, trigger tab, and short captive output arm, making stored spring energy inspectable before use. `latch`, `stored-energy-risk`, `safety`, `reset`
 - **Hanging ladle weight** - a ladle full of hardware acts as a visible, kitchen-coded weight. `stored-energy-risk`
 - **Spring latch cartridge** - a small removable unit stores spring energy and has a visible safe/armed state. `compact`, `stored-energy-risk`
 - **Pendulum beater** - local potential energy rings the medium gong after a routed release. `gong-court`, `lunch`
@@ -194,6 +215,9 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Over-center mallet** - a mallet arm rests just past balance until a signal sends it decisively into the gong. `gong-court`
 - **Two-stage safety latch** - one latch arms and another releases, reducing accidental stored-energy discharge. `safety`
 - **Pulley multiplication theater** - an intentionally excessive pulley network lifts a small latch or weight, provided it does real work. `dinner`, `clarity: needs-rewrite`, `clarity: needs-prior-art`
+- **Traveling pulley lift** - a small falling weight pulls a moving pulley block, doubling lift travel or reducing hand force for a gate reset. `transfer`, `reset`, `stored-energy-risk`
+- **Kitchen-scale counter-pulley** - a visible counterweight over a pulley balances a route gate so a tiny ball impact can tip it open. `transfer`, `lunch`, `stored-energy-risk`
+- **Pulley delayed drop** - a cord wraps over several small pulleys and through a friction brake, turning a quick release into a slow descending weight. `delay`, `dinner`, `stored-energy-risk`
 - **Counterweight reset assist** - the reset action lifts a light counterweight that later helps return a lever to start. `reset`
 - **Falling cookbook page block** - a weighted page or cover drops to push a latch; use a mock lightweight book if safer. `dinner`
 
@@ -201,6 +225,8 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 
 - **Geneva recipe wheel** - a driver pin briefly enters a slot in a recipe-card wheel and turns it exactly one station. Between hits, the wheel is locked in place, so each ball impact or lever stroke advances the visible program by one step instead of spinning freely. `sequencer`, `clarity: expanded`, `art: ghosted-motion`, `clarity: needs-prior-art`
 - **Pegboard program drum** - movable pegs trip levers in a configurable order, useful for future experiments. `sequencer`
+- **Rotating drum with falling pins** - a drum turns until one loose pin drops into a slot, stopping the drum and triggering the next route state. `rotary`, `sequencer`, `clarity: needs-rewrite`
+- **Stepped gate register** - a vertical stack of small gates opens one level at a time, making progress visible as a mechanical count rather than a hidden timer. `sequencer`, `latch`
 - **Ratchet menu wheel** - each impact advances breakfast, lunch, dinner, or reset marks one click. `trigger`, `sequencer`
 - **Three-latch braid** - three visible latches are arranged so latch A only enables latch B, and latch B only enables latch C. The final gate opens only after the sequence has advanced through all three, making dinner feel ceremonially armed rather than merely delayed. `dinner`, `clarity: expanded`, `clarity: needs-storyboard`, `art: three-frame storyboard`
 - **Mechanical OR gate** - any one of several meal signals can release a shared downstream action. `shared`
@@ -278,6 +304,7 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 
 - **Heavy visible arming** - the dinner route should show something cocked, lifted, or waiting. `dinner`
 - **Slow descent route** - use helix, dashpot, governor, or large rolling body for controlled anticipation. `dinner`
+- **One big ball moment** - dinner or a major transition can feature one large, cue-ball-like object moving through a short captured route, making scale feel special without turning the whole machine into a heavy-ball run. `dinner`, `large-ball`, `stored-energy-risk`
 - **Weight-and-pulley theater** - dinner can earn an overwrought pulley network if it lifts or releases real stored energy. `dinner`, `clarity: needs-rewrite`, `clarity: needs-prior-art`
 - **Candlelit mechanism without flame** - evoke slow evening countdown mechanically, not with heat or consumables. `dinner`
 - **Knife-block authority** - blunt knife-like tabs or handles can fall as a serious sequence if they trip real gates. `dinner`
@@ -290,6 +317,8 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Domino-triggered marble magazine** - falling tabs release balls one at a time. `sequencer`
 - **Funnel-fed pendulum release** - a ball caught in a funnel adds weight until a pendulum latch trips. `lunch`
 - **Rolling-pin cam plus recipe wheel** - a rotating kitchen object advances a program wheel. `sequencer`
+- **Cue ball into mousetrap latch** - a large captured ball rolls into a guarded snap latch, releasing only a small local output while the ball itself is caught immediately. `large-ball`, `latch`, `stored-energy-risk`, `safety`
+- **Gear train into stepped gate** - one short lever stroke turns a gear pair that advances a stepped gate by one notch, pacing a later marble release. `gear`, `sequencer`, `delay`
 - **Scale-pan diverter plus meal selector** - the trigger sets balance bias, then a ball decides the visible route. `shared`
 - **Colander sorter into gong court** - ball size routes to high, medium, or low strike releases. `shared`, `clarity: needs-rewrite`
 - **Tongs-held domino bridge** - tongs grip a bridge until a ball pries them open. `route-field`
