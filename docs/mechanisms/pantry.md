@@ -35,6 +35,15 @@ If an entry cannot answer one of these, it is not ready for the pantry:
 - What meal decision does it make visible?
 - What reset or arming action does it add?
 
+## Mechanisms Vs Identity Rules
+
+The pantry distinguishes two kinds of entry:
+
+- **Mechanisms** name a concrete causal device: a specific input, transformation, and output. They belong on mechanism shelves and can be promoted to dossiers.
+- **Identity rules** are constraints, biases, or preferences that any mechanism in a particular neighborhood must obey. They include phrases like "should", "prefer", "avoid", "can earn... if", and "is part of the language". They do not get promoted to dossiers; they filter mechanism candidates.
+
+When a section contains both kinds, split it into a Mechanisms subsection and a Rules subsection so the reader does not have to silently re-classify each bullet. If a bullet starts with "should / can / avoid / prefer" or names a vibe rather than a transformation, it is almost certainly a rule.
+
 ## Clarity And Concept-Art Notation
 
 Pantry entries should be legible to a future reader who did not share the session where they were invented.
@@ -244,6 +253,8 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 
 ## Gong-Court Strike Variants
 
+### Strike Mechanisms
+
 - **High ball rebound** - a small ball strikes or rebounds into the high gong, then lands in a capture cup. `breakfast`, `gong-court`
 - **High spoon flick** - a light spoon striker snaps once and is immediately caught. `breakfast`, `gong-court`
 - **High chime from marble drop** - a falling ball rings a small gong through a controlled drop and capture. `breakfast`
@@ -253,14 +264,21 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Low gravity hammer** - local heavy arm falls into the low gong from a restrained height. `dinner`, `stored-energy-risk`
 - **Low counterweighted mallet** - a mallet swings because a counterweight drops elsewhere nearby. `dinner`
 - **Low rolling-pin ram** - a rolling pin rotates and drives a short mallet linkage. `dinner`
-- **Boxing-glove impact** - an impact-signifying object can strike only if it is the actual beater or release arm. `gong-court`
-- **Captured striker rail** - striker rides on a guide rail and cannot leave the wall. `safety`
-- **Mallet with visible safety tether** - the tether is part of the language: heavy force is controlled. `dinner`, `safety`
-- **Rebound mute** - after the strike, felt or silicone catches the beater to prevent chatter. `gong-court`
 - **Gong pre-arm flag** - each gong has a small mechanical flag showing striker armed or spent. `reset`
-- **Three-strike counterpoint** - high, medium, and low use visibly different strike physics: ball, pendulum, and hammer. `shared`
+
+### Gong-Court Rules
+
+Every striker placed in the gong court must obey these constraints. Some rules also imply small companion devices (a tether, a guide rail, a felt catch); those companion devices are part of the rule, not separate mechanisms.
+
+- **Real-beater rule** - any impact-signifying object, including a boxing glove, can strike only if it is the actual beater or release arm, not decoration.
+- **Captured striker rail** - strikers must ride on a guide rail and cannot leave the wall.
+- **Visible safety tether** - on heavy strikers, the tether is part of the language: heavy force is openly controlled, not hidden.
+- **Rebound mute** - after the strike, felt or silicone must catch the beater to prevent chatter.
+- **Three-strike counterpoint** - high, medium, and low use visibly different strike physics: ball, pendulum, and hammer.
 
 ## Reset, Arming, And Visible Readiness
+
+### Reset Mechanisms
 
 - **Ball reload rack** - spent balls collect in labeled pockets that must be reloaded to the start. `reset`, `clarity: clear`
 - **Cock-and-flag latch** - arming a latch raises a flag; release drops it. `reset`
@@ -270,47 +288,68 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Spent route indicator** - each meal route leaves behind a marker showing what fired. `reset`
 - **Manual safe pin** - a removable pin blocks stored energy during tuning. `safety`
 - **Reset checklist rail** - small mechanical flags line up only when all local mechanisms are armed. `reset`
-- **Return-to-neutral selector** - the meal selector visibly returns to neutral after launch or during reset. `trigger`, `reset`
-- **Gong-court arming shelf** - all three strikers have local hand-arming actions near the gongs. `gong-court`, `reset`
 - **Captured-failure tray** - balls that miss a transition land in a visible tray rather than disappearing. `safety`
-- **Tuning detent marks** - adjustable stops have repeatable marks so later experiments can record settings. `reset`
-- **Energy-color tags** - purely visual color is not enough; tags attach to actual latches, weights, or pins and reveal state. `reset`
+
+### Reset And Readiness Rules
+
+These rules govern how any reset or arming mechanism must behave, regardless of which shelf it comes from.
+
+- **Return-to-neutral selector** - the meal selector must visibly return to neutral after launch or during reset.
+- **Gong-court arming shelf** - all three strikers must have local hand-arming actions near the gongs, not remote arming.
+- **Tuning detent marks** - any adjustable stop must carry repeatable marks so later experiments can record settings.
+- **Functional state tags** - color alone is not enough; tags must attach to actual latches, weights, or pins and reveal state mechanically.
 
 ## Meal-Route Identities
 
+This section is split into **mechanisms** (concrete devices specific to one meal) and **identity rules** (constraints any mechanism in that meal's neighborhood should obey, regardless of which shelf the mechanism comes from). Mechanisms tagged `breakfast`, `lunch`, or `dinner` on other shelves should be filtered through the matching identity rules before promotion.
+
 ### Breakfast
 
-- **Bright ricochet route** - small steel ball, short travel, crisp impacts, direct visible causes. `breakfast`
-- **Upward wake-up climb** - route begins by lifting or popping a small element upward before gravity takes over. `breakfast`
+#### Mechanisms
+
 - **Toast pop release** - a tab snaps up and releases the next ball, echoing breakfast without becoming decoration. `breakfast`
 - **Coffee scoop launch** - a scoop physically raises and tips the starting ball. `breakfast`
 - **Egg roll sorter** - a small round object enters a cup or spoon and immediately redirects into the high path. `breakfast`
-- **Quick domino flash** - a very short, fast falling-tab sequence, not a long wait. `breakfast`
-- **Bell-bright material bias** - metal balls, small spoons, and light strikers where the sound and motion feel crisp. `breakfast`
-- **Single-clean-strike ending** - high gong action should avoid long heavy windup. `breakfast`
+
+#### Identity Rules
+
+- **Bright ricochet bias** - prefer small steel balls, short travel, crisp impacts, direct visible causes.
+- **Upward wake-up bias** - the route begins by lifting or popping a small element upward before gravity takes over.
+- **Quick-tempo bias** - falling-tab sequences should be short and fast, not long waits.
+- **Bell-bright material bias** - metal balls, small spoons, and light strikers where the sound and motion feel crisp.
+- **Single-clean-strike ending** - high gong action should avoid long heavy windup.
 
 ### Lunch
 
-- **Balanced crossing route** - lunch should reveal the shared field most clearly by crossing other neighborhoods. `lunch`
-- **Scale and counterbalance language** - lunch decisions can happen through weighing, balancing, and midpoint tipping. `lunch`
+#### Mechanisms
+
 - **Shared table turntable** - a rotating plate or lazy Susan selects the next path. `lunch`
 - **Two-signal social release** - a latch opens only when a route ball and a selector state agree. `lunch`
 - **Pendulum conversation** - a pendulum passes motion from one side to the other before the medium gong. `lunch`
-- **Midday switchyard** - a visible rail switch or chute exchange emphasizes routing rather than raw force. `lunch`
-- **Measured delay** - lunch may pause, but not brood; use a balanced pendulum or orbiting bowl. `lunch`
-- **Medium strike legibility** - final strike should be readable as swing, balance, or release. `lunch`
+
+#### Identity Rules
+
+- **Balanced crossing bias** - lunch should reveal the shared field most clearly by crossing other neighborhoods.
+- **Scale and counterbalance language** - lunch decisions can happen through weighing, balancing, and midpoint tipping.
+- **Switchyard preference** - prefer visible rail switches or chute exchanges that emphasize routing rather than raw force.
+- **Measured delay** - lunch may pause, but not brood; use a balanced pendulum or orbiting bowl rather than long countdowns.
+- **Medium strike legibility** - final strike should be readable as swing, balance, or release.
 
 ### Dinner
 
-- **Heavy visible arming** - the dinner route should show something cocked, lifted, or waiting. `dinner`
-- **Slow descent route** - use helix, dashpot, governor, or large rolling body for controlled anticipation. `dinner`
-- **One big ball moment** - dinner or a major transition can feature one large, cue-ball-like object moving through a short captured route, making scale feel special without turning the whole machine into a heavy-ball run. `dinner`, `large-ball`, `stored-energy-risk`
-- **Weight-and-pulley theater** - dinner can earn an overwrought pulley network if it lifts or releases real stored energy. `dinner`, `clarity: needs-rewrite`, `clarity: needs-prior-art`
-- **Candlelit mechanism without flame** - evoke slow evening countdown mechanically, not with heat or consumables. `dinner`
-- **Knife-block authority** - blunt knife-like tabs or handles can fall as a serious sequence if they trip real gates. `dinner`
-- **Gravity hammer finale** - local force should feel larger than the control signal that released it. `dinner`
-- **Low-route safety display** - tethers, stops, and guards can be visible because control of force is part of dinner's identity. `dinner`
-- **Long reset ritual** - dinner may have the most satisfying re-cocking action, as long as it is not hazardous. `dinner`
+#### Identity Rules
+
+Dinner mechanisms live on the main shelves under tags like `dinner`, `stored-energy-risk`, `large-ball`, and `delay`. The rules below filter and shape those mechanisms.
+
+- **Heavy visible arming** - the dinner route should show something cocked, lifted, or waiting.
+- **Slow descent preference** - use helix, dashpot, governor, or large rolling body for controlled anticipation.
+- **One big ball moment** - dinner or a major transition can feature one large, cue-ball-like object moving through a short captured route, making scale feel special without turning the whole machine into a heavy-ball run.
+- **Weight-and-pulley theater** - dinner can earn an overwrought pulley network if it lifts or releases real stored energy. `clarity: needs-rewrite`, `clarity: needs-prior-art`
+- **Candlelit countdown without flame** - evoke slow evening countdown mechanically, not with heat or consumables.
+- **Knife-block authority** - blunt knife-like tabs or handles can fall as a serious sequence if they trip real gates.
+- **Gravity hammer finale** - local force should feel larger than the control signal that released it.
+- **Low-route safety display** - tethers, stops, and guards can be visible because control of force is part of dinner's identity.
+- **Long reset ritual** - dinner may have the most satisfying re-cocking action, as long as it is not hazardous.
 
 ## Cross-Category Hybrids
 
