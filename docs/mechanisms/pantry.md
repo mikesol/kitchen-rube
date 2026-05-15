@@ -143,7 +143,7 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Funnel delay orbit** - a ball circles before escaping through an offset hole, acting as a compact time delay. `delay`
 - **Trapdoor chute** - a ball passes over a floor that drops after it exits, preventing backflow and recording state. `sequencer`
 - **Stepped gate ladder** - a falling tab opens the first small gate, letting a ball drop one shelf lower, where it opens the next gate. The ball descends in visible steps instead of one uncontrolled fall. `sequencer`, `track`
-- **Stair-step release comb** - a sliding comb exposes several gate notches one after another, so a row of balls or tabs releases in a deliberate stagger rather than all at once. `sequencer`, `latch`, `clarity: needs-rewrite`
+- **Stair-step release comb** - a long flat plate slides sideways behind a row of waiting balls or tabs. Each item is held back by the plate itself; cut into the plate are notches spaced like piano keys. As the plate travels, notch after notch reaches its corresponding item and lets it fall, so a row that wanted to release all at once instead releases as an arpeggio. `sequencer`, `latch`
 - **Flip-flop gate** - a small seesaw gate has two stable positions. The first ball rolls through and tips the gate left, so the next ball is sent right; that ball tips the gate back, so the following ball is sent left. `sequencer`, `clarity: expanded`, `clarity: needs-storyboard`, `art: three-frame storyboard`
 - **One-way spoon gate** - a hinged spoon bowl allows travel in one direction and blocks reset-direction motion. `route-field`
 - **Scale-pan diverter** - a ball lands in one pan of a miniature scale, tipping the opposite chute into position. `lunch`
@@ -200,12 +200,12 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Over-center hesitation latch** - force builds until a lever snaps past center, creating delayed commitment. `delay`
 - **String burn substitute** - avoid heat; use a slow unwinding cord, viscous brake, or dissolving-safe nonfood substitute only if contained and reliable. `safety`
 - **Tilt maze delay** - a ball enters a shallow maze, converting one release into a variable but visible delay. `route-field`
-- **Recipe-page flutter delay** - falling pages are weighted tabs that slow a release by air drag and sequential contact. `delay`, `clarity: needs-rewrite`
+- **Recipe-page flutter delay** - a small bound stack of cookbook-style pages hangs hinged at the top. A trigger releases the first page; gravity pulls it forward in a slow arc because its broad face fights the air. As it lands, it nudges the next page, which falls just as slowly. The delay is the cumulative tempo of pages turning themselves, as if an invisible cook were leafing through a recipe to find the next instruction. `delay`
 - **Friction governor wheel** - a wheel with adjustable felt pressure slows a descending weight. `delay`, `reset`
 - **Camming pause** - a rotating cam has a long dwell before it lifts the follower. `sequencer`
 - **Latch waiting room** - a ball is captured until a second signal opens the exit, creating mechanical AND logic. `sequencer`
 - **Metronome release** - a metronome-like arm must swing to a particular side before it trips a latch. `lunch`
-- **Dinner fuse without fire** - a long, slow visible mechanical countdown made from falling tabs, not combustion. `dinner`, `clarity: needs-rewrite`
+- **Dinner fuse without fire** - a long cord runs across the upper wall on a slight downward slope, with a heavy bead riding it on a small carriage. Once released, the carriage crawls along the cord under gravity, ticking past marked stations on its way to the dinner release at the far end. The fantasy is the burning fuse of a cartoon stick of dynamite, but the spark is replaced by a bead and the burn is replaced by a slow horizontal crawl. `dinner`
 
 ## Stored-Energy Releases
 
@@ -223,7 +223,8 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Clock-weight reveal** - a hanging weight descends slowly and exposes a visual armed-state scale. `delay`, `reset`
 - **Over-center mallet** - a mallet arm rests just past balance until a signal sends it decisively into the gong. `gong-court`
 - **Two-stage safety latch** - one latch arms and another releases, reducing accidental stored-energy discharge. `safety`
-- **Pulley multiplication theater** - an intentionally excessive pulley network lifts a small latch or weight, provided it does real work. `dinner`, `clarity: needs-rewrite`, `clarity: needs-prior-art`
+- **Pulley multiplication theater** - a dramatic vertical column of six or eight pulleys, cords zigzagging between them, is reduced to lifting one small latch by exactly one inch. The joke is mechanical disadvantage staged as spectacle: the spent effort visibly dwarfs the result. Its deliberate foil is **Hidden mechanical advantage**, which inverts the joke; together they make the leverage grammar legible — ropes and levers mean whatever the route author wants the audience to feel about effort, not raw power. `dinner`, `clarity: needs-prior-art`
+- **Hidden mechanical advantage** - somewhere apart from the pulley theater, a small ball impact or finger tug acts on a long lever arm, a high-ratio gear pair, or a compact block-and-tackle, and in the same instant moves a much larger gate, plate, or weight. No pre-cocked spring or counterweight does the work; the moment of input is the moment of output, just visibly amplified. The image is a child casually flicking a single cord and a heavy oven door swinging wide. Its job is to make the audience feel that mechanical leverage is real, not magical. `gear`, `transfer`, `route-field`
 - **Traveling pulley lift** - a small falling weight pulls a moving pulley block, doubling lift travel or reducing hand force for a gate reset. `transfer`, `reset`, `stored-energy-risk`
 - **Kitchen-scale counter-pulley** - a visible counterweight over a pulley balances a route gate so a tiny ball impact can tip it open. `transfer`, `lunch`, `stored-energy-risk`
 - **Pulley delayed drop** - a cord wraps over several small pulleys and through a friction brake, turning a quick release into a slow descending weight. `delay`, `dinner`, `stored-energy-risk`
@@ -234,7 +235,7 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 
 - **Geneva recipe wheel** - a driver pin briefly enters a slot in a recipe-card wheel and turns it exactly one station. Between hits, the wheel is locked in place, so each ball impact or lever stroke advances the visible program by one step instead of spinning freely. `sequencer`, `clarity: expanded`, `art: ghosted-motion`, `clarity: needs-prior-art`
 - **Pegboard program drum** - movable pegs trip levers in a configurable order, useful for future experiments. `sequencer`
-- **Rotating drum with falling pins** - a drum turns until one loose pin drops into a slot, stopping the drum and triggering the next route state. `rotary`, `sequencer`, `clarity: needs-rewrite`
+- **Rotating drum with falling pins** - a small vertical drum spins slowly under gravity. A single loose pin rattles inside it. The drum's wall has one slot cut through; when rotation brings the slot to the bottom, the pin falls out, jamming the drum mid-turn and striking a follower below. The image is a roulette wheel that decides, at an unpredictable moment, to end its own turn — except the pin is real and what it strikes is the next route's latch. `rotary`, `sequencer`
 - **Stepped gate register** - a vertical stack of small gates opens one level at a time, making progress visible as a mechanical count rather than a hidden timer. `sequencer`, `latch`
 - **Ratchet menu wheel** - each impact advances breakfast, lunch, dinner, or reset marks one click. `trigger`, `sequencer`
 - **Three-latch braid** - three visible latches are arranged so latch A only enables latch B, and latch B only enables latch C. The final gate opens only after the sequence has advanced through all three, making dinner feel ceremonially armed rather than merely delayed. `dinner`, `clarity: expanded`, `clarity: needs-storyboard`, `art: three-frame storyboard`
@@ -243,13 +244,13 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **One-shot latch** - prevents a route from double-firing after the first signal passes. `safety`
 - **Route memory flag** - a colored flag or pointer is mechanically set by the meal choice and reset by hand. `reset`
 - **Falling-tab register** - a row of tabs records which substeps have fired. `sequencer`
-- **Camshaft of appetizers** - a turning shaft triggers several tiny actions in sequence, each one feeding a real downstream state. `dinner`, `clarity: needs-rewrite`, `clarity: needs-prior-art`
+- **Camshaft of appetizers** - a horizontal shaft carries three or four cam lobes spaced along its length, each one shaped differently. The shaft is indexed in clicks, not free-running. At each click, one lobe lifts a follower that drops into its own small self-contained vignette below — a captured marble runs a short loop, a spoon tips a thimble, a flag pops up and salutes. When that vignette finishes, its own output turns the shaft one click forward, presenting the next lobe and waking the next vignette. The pleasure is amuse-gueules: three or four tiny mechanical courses, each a little universe, served in sequence by a single shaft. `dinner`, `clarity: needs-prior-art`
 - **Bell-crank relay bank** - a cluster of L-shaped pivot levers changes motion direction several times in a small area. A horizontal push can become a vertical pull, then a sideways latch release, letting routes share a dense neighborhood without drawing long separate tracks. `route-field`, `clarity: expanded`, `art: single-frame`, `clarity: needs-prior-art`
 - **Selector interlock** - physically prevents two meal routes from being selected simultaneously. `trigger`
 - **Marble ballot box** - meal selection drops a ball into one of three visible pockets; later gates read the pocket. `shared`
 - **Flip-card state board** - cards flip from armed to spent as mechanisms fire, aiding reset. `reset`
 - **Stepper ladder** - a ratchet climbs one notch per ball, releasing only after a count is reached. `delay`
-- **Falling domino decoder** - different input positions start different domino subchains that rejoin at one release. `shared`, `clarity: needs-rewrite`, `clarity: needs-storyboard`, `art: three-frame storyboard`
+- **Falling domino decoder** - three short domino subchains stand on the wall, each leading to the same downstream latch but taking visibly different paths to get there: one short, one looping, one slow. A single horizontal selector arm hangs above the three subchain heads. The meal trigger shifts the arm sideways to align with exactly one head, and only then drops it; the chosen subchain falls, the other two stand untouched. The unfired subchains are part of the picture — they make the chosen route legible as a choice rather than a default. `shared`, `clarity: expanded`, `clarity: needs-storyboard`, `art: three-frame storyboard`
 
 ## Gong-Court Strike Variants
 
@@ -344,7 +345,7 @@ Dinner mechanisms live on the main shelves under tags like `dinner`, `stored-ene
 - **Heavy visible arming** - the dinner route should show something cocked, lifted, or waiting.
 - **Slow descent preference** - use helix, dashpot, governor, or large rolling body for controlled anticipation.
 - **One big ball moment** - dinner or a major transition can feature one large, cue-ball-like object moving through a short captured route, making scale feel special without turning the whole machine into a heavy-ball run.
-- **Weight-and-pulley theater** - dinner can earn an overwrought pulley network if it lifts or releases real stored energy. `clarity: needs-rewrite`, `clarity: needs-prior-art`
+- **Weight-and-pulley theater** - dinner can earn an overwrought pulley network when the route truly lifts or releases real stored energy. The spectacle of many ropes and pulleys is welcome only if it costs something: a hanging counterweight rises an honest inch, or a network of six cords visibly drags one small latch open with effort that obviously exceeds the latch's needs. The audience should leave feeling that dinner takes work, not that pulleys are decoration. `clarity: needs-prior-art`
 - **Candlelit countdown without flame** - evoke slow evening countdown mechanically, not with heat or consumables.
 - **Knife-block authority** - blunt knife-like tabs or handles can fall as a serious sequence if they trip real gates.
 - **Gravity hammer finale** - local force should feel larger than the control signal that released it.
@@ -359,7 +360,7 @@ Dinner mechanisms live on the main shelves under tags like `dinner`, `stored-ene
 - **Cue ball into mousetrap latch** - a large captured ball rolls into a guarded snap latch, releasing only a small local output while the ball itself is caught immediately. `large-ball`, `latch`, `stored-energy-risk`, `safety`
 - **Gear train into stepped gate** - one short lever stroke turns a gear pair that advances a stepped gate by one notch, pacing a later marble release. `gear`, `sequencer`, `delay`
 - **Scale-pan diverter plus meal selector** - the trigger sets balance bias, then a ball decides the visible route. `shared`
-- **Colander sorter into gong court** - ball size routes to high, medium, or low strike releases. `shared`, `clarity: needs-rewrite`
+- **Colander sorter into gong court** - a kitchen colander, mounted at an angle on the wall, has three holes of distinctly different sizes. The smallest ball passes through the smallest hole and into the high-gong release; the middle ball through the middle hole into the medium-gong release; the largest ball can only pass the largest hole and falls into the low-gong release. Whichever ball the meal trigger sent is the one that strikes its gong. The image is pasta water draining — except what passes through is route information instead of liquid. `shared`
 - **Tongs-held domino bridge** - tongs grip a bridge until a ball pries them open. `route-field`
 - **Whisk spring plus breakfast ricochet** - a light stored impulse adds snap to a fast high route. `breakfast`
 - **Oil-damped dinner mallet** - a damper delays or controls a heavy striker before release. `dinner`, `safety`
@@ -373,7 +374,7 @@ Dinner mechanisms live on the main shelves under tags like `dinner`, `stored-ene
 - **Mechanical AND before dinner** - dinner requires both a slow countdown and a route ball before releasing stored energy. `dinner`
 - **Bell-crank kitchen drawer illusion** - a shallow drawer-pull motion secretly turns into a vertical latch lift. `trigger`
 - **Domino gap crossed by pendulum** - a domino row stops at a deliberate gap. A pendulum swings through the gap after a delay, and only at the bottom of its swing does it touch the next domino or tab, restarting the falling sequence. `delay`, `clarity: expanded`, `clarity: needs-storyboard`, `art: three-frame storyboard`
-- **Funnel orbit to ratchet stepper** - every orbit or exit taps a ratchet forward. `delay`, `clarity: needs-rewrite`, `clarity: needs-prior-art`
+- **Funnel orbit to ratchet stepper** - a ball circles inside a shallow funnel-bowl, slowly losing height with each pass. Once per orbit, the ball brushes a small lever at the rim, advancing a ratchet wheel by one tooth. After several orbits, the ratchet has counted out enough teeth to release a latch. The ball eventually drops through the funnel's center exit, but by then its work of counting is already done. The image is a planet circling a sun, ticking off years; the kitchen variant is a marble searching for the drain while it pays its time-toll one tooth at a time. `delay`, `clarity: needs-prior-art`
 - **Gong striker arms as route endings** - the last route event releases local strike energy, not transported strike energy. `gong-court`
 
 ## Prior-Art Journey Queue
