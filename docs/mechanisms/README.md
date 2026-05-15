@@ -4,7 +4,7 @@ Mechanism dossiers are provisional records. Some will become final parts of the 
 
 Create one dossier per meaningful mechanism idea, proof, or integrated assembly. Copy `mechanism-template.md` and update the status as the mechanism evolves.
 
-Phase 2 dossiers are composition anchors. They identify mechanisms that shape the wall: trigger area, routing decisions, stored energy, marble travel, and gong-court strikes.
+Composition anchors (trigger area, gong-court territory, route placement) live on the measured SVG at `design/wall-layout/active-field.svg` and in `docs/concept/wall-field.md`. The Phase 2 anchor dossiers that originally held this role were retired once the Phase 3 pantry covered the same territory with more depth.
 
 Phase 3 stocks the pantry. Broad ideas, wild variants, prior-art prompts, kitchen-tool transfers, route identities, and cross-category hybrids belong in `pantry.md`.
 

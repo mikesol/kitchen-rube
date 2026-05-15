@@ -17,17 +17,13 @@ The prompt briefs preserve detailed visual/mechanical interpretations for entrie
 
 Full dossier promotion is deferred until the end of Phase 3. A strong idea can be marked as a promotion candidate later, but most pantry entries should remain raw ingredients.
 
-## Phase 2 Composition Dossiers
+## Composition Anchors
 
-These dossiers define major wall roles, route logic, safety assumptions, or gong-court territory. They are design anchors, not final engineering drawings.
+Wall composition is currently held by the measured field SVG and the wall-field concept doc, not by individual dossiers. The seven Phase 2 anchor dossiers were retired once the pantry overgrew them; their unique content moved into the pantry, the safety docs, and `experiments/backlog.md`.
 
-- [Left Meal Trigger Column](left-meal-trigger-column.md)
-- [Shared Launch And Diverter](shared-launch-and-diverter.md)
-- [Breakfast High Gong Strike](breakfast-high-gong-strike.md)
-- [Lunch Medium Gong Strike](lunch-medium-gong-strike.md)
-- [Dinner Low Gong Strike](dinner-low-gong-strike.md)
-- [Stored Energy Release](stored-energy-release.md)
-- [Marble Route Field](marble-route-field.md)
+- Measured field: [`design/wall-layout/active-field.svg`](../../design/wall-layout/active-field.svg)
+- Field constraints and overflow zones: [`docs/concept/wall-field.md`](../concept/wall-field.md)
+- Trigger column, gong court, and route placement live as labeled regions on the SVG.
 
 ## Dossier Promotion Boundary
 

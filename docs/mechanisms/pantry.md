@@ -362,6 +362,7 @@ This section is split into **mechanisms** (concrete devices specific to one meal
 - **Quick-tempo bias** - falling-tab sequences should be short and fast, not long waits.
 - **Bell-bright material bias** - metal balls, small spoons, and light strikers where the sound and motion feel crisp.
 - **Single-clean-strike ending** - high gong action should avoid long heavy windup.
+- **Not a faster lunch** - the breakfast route should not become a shorter, quicker copy of the lunch route. Distinct identity, not just compressed timing.
 
 ### Lunch
 
@@ -378,6 +379,7 @@ This section is split into **mechanisms** (concrete devices specific to one meal
 - **Switchyard preference** - prefer visible rail switches or chute exchanges that emphasize routing rather than raw force.
 - **Measured delay** - lunch may pause, but not brood; use a balanced pendulum or orbiting bowl rather than long countdowns.
 - **Medium strike legibility** - final strike should be readable as swing, balance, or release.
+- **Not the default route** - lunch should show the shared field most clearly without feeling like the road every meal happens to take. Crossing must read as a choice, not as the path of least resistance.
 
 ### Dinner
 
