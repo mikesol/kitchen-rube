@@ -57,6 +57,8 @@ When an entry is confusing, rewrite it before generating art. The image should p
 
 Record clarity, concept-art, and prior-art needs on the mechanism entries themselves. Avoid adding pass logs to this document; commit history can carry the edit history.
 
+Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantry-prompts/README.md). These prompt briefs are intentionally more explicit than pantry entries, because their job is to make the mechanism grokable before any image, dossier, or PoC exists. Prompt brief filenames use the mechanism name as a lowercase hyphenated slug.
+
 ## Trigger Gestures And Meal Selectors
 
 - **Three measuring-spoon pulls** - each spoon handle pulls a separate cord, making breakfast, lunch, and dinner physically distinct from the first touch. `trigger`

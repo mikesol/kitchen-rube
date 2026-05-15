@@ -7,10 +7,13 @@ This is not a fixed bill of materials. It is a live map of possible mechanisms, 
 Phase 3 is a maximum-breadth pantry-stocking pass.
 
 - [Mechanism Pantry](pantry.md)
+- [Pantry Prompt Briefs](pantry-prompts/README.md)
 - Design: [Phase 3 Mechanism Language Design](../plans/2026-05-14-phase-3-mechanism-language-design.md)
 - Implementation plan: [Phase 3 Mechanism Language Implementation Plan](../plans/2026-05-14-phase-3-mechanism-language.md)
 
 The pantry is the working surface for broad ideas: domino languages, funnels, marble variants, kitchen-tool levers, delays, prior-art journeys, sequencing ideas, found-object mechanisms, and meal-route identities.
+
+The prompt briefs preserve detailed visual/mechanical interpretations for entries that may need concept art. They are prompt seeds, not final image prompts or build specs.
 
 Full dossier promotion is deferred until the end of Phase 3. A strong idea can be marked as a promotion candidate later, but most pantry entries should remain raw ingredients.
 
