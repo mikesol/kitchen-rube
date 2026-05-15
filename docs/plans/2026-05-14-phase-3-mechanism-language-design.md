@@ -41,6 +41,19 @@ Each pantry candidate can be short, but it should state enough causal work to be
 - What route or meal decision does it make visible?
 - What reset action does it add to the ritual?
 
+## Clarity Before Concept Art
+
+Some good pantry entries will be obvious from one sentence. Others will hide too much geometry or sequence in shorthand.
+
+Before generating concept art, mark confusing entries with a clarity status:
+
+- Clear enough as written.
+- Needs plain-language rewrite.
+- Needs storyboard or ghosted-motion art.
+- Needs prior-art reference pass.
+
+Rewrite obscure entries first. Concept art should preserve and sharpen a mechanical idea; it should not become the only place where the mechanism makes sense.
+
 ## Pantry Shelves
 
 Initial shelves:
