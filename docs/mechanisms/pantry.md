@@ -104,6 +104,8 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Soft-stop dominoes** - felted falling tabs release a latch quietly before a loud gong ending. `breakfast`, `lunch`
 - **Domino reset rail** - a single sliding rail stands a row back up, turning reset into a satisfying arming move. `reset`
 - **Falling pantry labels** - labels tip only because they are weighted tabs; each label reveals a route instruction while opening a gate. `route-field`
+- **Spice-jar topple row** - small mason or spice jars stand on a narrow shelf as the falling bodies. They tip slower and louder than wooden dominoes and carry more momentum, so the row can be shorter for the same delivered impact. The fantasy is a pantry shelf in deliberate, controlled collapse. `route-field`
+- **Cookbook collapse** - a row of standing cookbooks leans against a single restraining pin. When the pin is pulled, the books fall sideways in sequence like dominoes, and the last book's fall presses a tab beneath it. The fantasy is a library tipping over because someone took the bookend. `route-field`, `dinner`
 
 ## Rolling Bodies, Marbles, Balls, Captures, And Rails
 
@@ -130,6 +132,10 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Return chute visible reset** - spent balls collect in a transparent return channel that shows what must be reloaded. `reset`
 - **Orbital bowl** - a ball circles a shallow bowl before finding the exit, creating a noisy but causal delay. `delay`, `lunch`
 - **Marble toll gate** - a ball must pay its energy into lifting a small flap, reducing speed while advancing state. `route-field`
+- **Conveyor ribbon crossing** - a small fabric ribbon runs as a horizontal loop between two pulleys, driven by a falling weight or by the previous mechanism's pull. A ball sits on the ribbon at one end; the ribbon's travel carries the ball across a gap and tips it into the next chute. The fantasy is a baggage carousel scaled down to a kitchen shelf. `track`, `transfer`
+- **Archimedes screw ball lift** - a clear tube wraps a slow internal helix, fed at the bottom by a return chute of spent balls. A hand crank or a falling counterweight turns the helix; each turn carries one ball up one pitch of the screw until it spills out of the top into the starting trough. The fantasy is the spent balls walking themselves home. `reset`, `track`
+- **Ceiling-drop pendulum entry** - a long pendulum hangs from the ceiling, far above the wall. When released, it swings down and across, just brushing a tab on the wall at the bottom of its arc. The fantasy is the wall acquiring a visitor from above — a route element that did not start on the wall at all. `route-field`, `delay`
+- **Floor-crossing trough** - a shallow covered channel runs across the floor between two cabinet bases, carrying a ball from the left neighborhood to the right. Audiences see the trough but not the ball; the ball's arrival on the far side is the visible event. The fantasy is the machine extending its reach across the room without breaking the wall's plane. `track`, `shared`
 
 ## Funnels, Sorters, Gates, And Chutes
 
@@ -151,6 +157,7 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Cake-slice sector gate** - a rotating triangular slice chooses one of three radial exits. `shared`
 - **Captured drop elevator** - a ball falls into a cup attached to a cord, lowering the cup and lifting a counterweight elsewhere. `stored-energy-risk`
 - **Gentle dinner chute** - a broad, slow trough keeps a heavy ball from accelerating too much. `dinner`
+- **Tea-bowl pour chain** - three small ceramic bowls hang in a vertical staircase, each balanced to tip after receiving a small additional impulse from above. The first bowl tips and pours its sand or pellets into the second, weighting it past its balance point; the second tips into the third; the third tips into a final cup whose weight trips a latch. The fantasy is the tea ceremony, performed by the wall in miniature. `route-field`, `delay`
 
 ## Kitchen-Tool Levers And Found-Object Transfers
 
@@ -230,6 +237,9 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Pulley delayed drop** - a cord wraps over several small pulleys and through a friction brake, turning a quick release into a slow descending weight. `delay`, `dinner`, `stored-energy-risk`
 - **Counterweight reset assist** - the reset action lifts a light counterweight that later helps return a lever to start. `reset`
 - **Falling cookbook page block** - a weighted page or cover drops to push a latch; use a mock lightweight book if safer. `dinner`
+- **Buckling spatula snap** - a thin silicone spatula blade is bent into a curve under spring tension, held in its buckled position by a small pin. When the pin is removed, the blade snaps through center with an audible crack and flicks a tab or ball clear of its rest. The fantasy is a kitchen tool that has been waiting in a tense crouch and finally pounces. `latch`, `stored-energy-risk`
+- **Bistable snap-dome trigger** - a small pre-stressed metal dome (the kind that clicks inside a flashlight switch) is held under a falling tab. When the tab accumulates enough weight, the dome inverts with a sharp click, dropping a captive pin into a slot below. The fantasy is the smallest possible release: a button that decides for itself when it has been pressed hard enough. `latch`, `compact`
+- **Hanging mobile rebalance** - a Calder-style mobile hangs from the ceiling near the dinner route. Each arm carries a small weight; the upstream signal removes one weight, and the mobile slowly re-balances itself through several oscillations before settling into a new pose. The settled pose is what finally tips a tab. The fantasy is the wall thinking visibly before it commits. `delay`, `dinner`
 
 ## Sequencers And Multi-Step Logic
 
@@ -251,6 +261,39 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Flip-card state board** - cards flip from armed to spent as mechanisms fire, aiding reset. `reset`
 - **Stepper ladder** - a ratchet climbs one notch per ball, releasing only after a count is reached. `delay`
 - **Falling domino decoder** - three short domino subchains stand on the wall, each leading to the same downstream latch but taking visibly different paths to get there: one short, one looping, one slow. A single horizontal selector arm hangs above the three subchain heads. The meal trigger shifts the arm sideways to align with exactly one head, and only then drops it; the chosen subchain falls, the other two stand untouched. The unfired subchains are part of the picture — they make the chosen route legible as a choice rather than a default. `shared`, `clarity: expanded`, `clarity: needs-storyboard`, `art: three-frame storyboard`
+- **Cord-network harness** - a single input cord, when pulled, fans out through a small tree of pulleys to several output cords. Each output is shortened or lengthened so that its destination tab fires at a different moment after the pull. The fantasy is a puppeteer's hand: one yank, several limbs, each at its own cue. `transfer`, `sequencer`
+- **Music-box pegged drum plucker** - a slow-turning drum carries pegs that pluck a row of tuned steel tines. Each plucked tine vibrates audibly and visibly, and its vibration is geared to a small follower that pushes a latch. Sound is the warning, the latch trip is the consequence. The fantasy is a music box that announces what it is about to do. `rotary`, `sequencer`, `gong-court`
+
+## Fluids, Air, And Granular Streams
+
+These mechanisms route mass that is not a ball or a tab. Water, air, sand, and dry pellets each have their own rhythm and their own way of making timing visible. Treat them as materials that must be contained as carefully as marbles — and as visibly. Avoid open consumables, heat, and chemistry; the point is the kinetics of the material, not the material itself.
+
+- **Shishi-odoshi cup tipper** - a hinged bamboo or wooden cup hangs under a slow water drip, weighted so its empty position is upright. Water fills it; once full, its center of gravity passes the pivot and the cup tips, dumping the water into a catch basin below. Empty, the cup swings back upright, knocking against a stop on the return — the knock is the trigger. The fantasy is the Japanese deer-scarer: a slow, inevitable, periodic thunk that pays no attention to the rest of the wall but cannot be hurried. `delay`, `reset`
+- **Drip-fed float gate** - a tall narrow cylinder fills slowly from a drip above. Floating inside is a small wooden duck or cork; as the water rises, the float rises with it. When the float reaches a marked height, it lifts a horizontal pin out of a latch, releasing the next mechanism. The cylinder drains through a small hole at the bottom afterward, returning the float to its start over the next minute. The fantasy is a sink filling at the end of a meal until something finally snaps. `delay`, `reset`
+- **Siphon-triggered drop** - a small reservoir fills with water until the level passes the bend of a siphon hooked into its side. Once primed, the siphon empties the reservoir entirely in a few seconds, and the sudden loss of weight lets a counterweighted lever swing free. The mechanism is famously discrete: nothing for a minute, then everything at once. `delay`, `stored-energy-risk`
+- **Bellows puff transfer** - a small kitchen bellows is squeezed by a falling weight, sending a focused puff of air across a short gap. The puff knocks a balanced feather, a pith ball, or a paper sail off its perch into the next mechanism. The fantasy is breath as causation: something inanimate exhaling at exactly the right moment. `transfer`, `compact`
+- **Syringe-pair hydraulic transfer** - two medical-style syringes are connected by a flexible tube full of water or oil. Pushing the plunger of one syringe extends the plunger of the other, even around corners or through walls. The mechanism is a quiet, leakless way to send a mechanical signal across the wall without cord runs. The fantasy is a chemistry-set version of a Bowden cable: clear, surgical, slightly clinical. `transfer`, `compact`
+- **Vacuum suction-cup release** - a small rubber suction cup pressed against a polished tile holds a hanging tab in place. Above the cup, a slender needle or pin waits on its own little pivot. When the upstream signal arrives, the needle pricks the rubber, breaks the seal, and the tab falls. The fantasy is a magician's trick: a tile that was holding a weight by force you cannot see, until you can. `latch`, `safety`
+- **Sand-stream weight build** - dry rice, salt, or fine pellets trickle from a small hopper through a narrow nozzle into a hanging cup. The cup hangs from one arm of a balance; once enough material has accumulated, the cup outweighs its counterweight and tips, dumping the load and tripping a latch on the way down. The fantasy is the unhurried tilt of an hourglass that finally chooses a side. `delay`, `stored-energy-risk`
+- **Pellet bucket cascade** - several small cups hang in a vertical staircase. Pellets pour from the top cup into the second when the top tips; the second fills, then tips into the third. Each tip is its own small event that knocks a tab. The fantasy is a kusari-doi rain chain, but the water is replaced by something countable. `sequencer`, `delay`
+
+## Momentum, Phase, And Centrifugal Devices
+
+These mechanisms exploit motion that is not simple falling: a row of beads handing off momentum, a pendulum's swing arc, a spinning weight that only commits at a threshold. They make timing and force depend on phase or speed rather than on stored energy alone.
+
+- **Newton's-cradle handoff** - five small steel beads hang in a row, just touching, suspended on twin threads. The upstream route swings the leftmost bead into the others; the rightmost bead leaps out and strikes a latch, while the middle beads barely move. The fantasy is a clean cartoon transfer: a tap goes in one end and pops out the far end, with the middle of the wall doing nothing visible at all. `transfer`, `gong-court`
+- **Pendulum wave countdown** - a row of seven or nine pendulums of graduated length hangs in a frame. Released together, their differing periods make them drift in and out of phase, producing a traveling wave that visibly migrates along the row. After a chosen number of cycles, the rightmost pendulum's swing arc reaches the trigger arm. The fantasy is a slow-motion countdown made of math, where the answer is not announced — it simply arrives. `delay`, `dinner`
+- **Flyball governor gate** - two small weights pivot outward from a vertical spindle as it spins. The spindle is driven by a falling weight or a hand crank. Below a threshold speed, the weights hang low and a latch stays closed; above the threshold, the weights swing outward and lift a collar that unhooks the latch. The fantasy is a steam-age machine making a deliberate decision about whether it is ready. `delay`, `stored-energy-risk`, `clarity: needs-prior-art`
+- **Salad-spinner threshold release** - a hand crank spins a small basket through a gear train. A pawl is held away from a release latch by the centrifugal load on a weighted arm; only once the crank reaches a brisk speed does the pawl finally fly clear and let the latch trip. The fantasy is the kitchen ritual of spinning lettuce — the route earns its release through effort, not just through time. `trigger`, `stored-energy-risk`
+
+## Character Automata And Emerging Figures
+
+These mechanisms wear the costume of a small character. The character's motion is the lever, the cam, or the latch — the figure is not decoration on top of a mechanism but the mechanism's outward shape. Used sparingly, they give the wall narrative texture; used too often, they become a parade.
+
+- **Nodding chef puppet** - a small carved chef figure stands on a shelf, his head mounted on a pivot at his neck. The upstream route pulls a cord through his chest; his head bobs forward in a slow nod, and at the bottom of the nod his chin presses a latch beneath him. The fantasy is the chef saying "yes, ready" in a single mechanical gesture that releases the next route. `kitchen-object`, `gong-court`
+- **Emerging baker on rails** - a small baker figure stands on a wheeled platform behind a closed pantry door. When the door opens because a latch is released, the platform rolls the figure forward on a short rail; the rigid baguette in his arms projects ahead of him and wedges into a slot on the far side of the threshold, tripping a tab. The fantasy is a cuckoo-clock entry made of bread. `kitchen-object`, `dinner`
+- **Bowing maître d'** - a tall figure stands beside the gong court holding a small weight at chest height. When upstream signals release his bow, his torso hinges forward at the hips and the weight in his hands swings down on the end of his arms into the medium-gong release. The fantasy is the formal announcement of the next course. `lunch`, `gong-court`
+- **Kissing salt-and-pepper shakers** - two ceramic shakers stand on a small swivel platform, normally facing apart. A route signal rotates the platform so the shakers tip toward each other; their lips meet, and the contact closes a small mechanical bridge that lets a captive ball roll through. The fantasy is a gag from a wedding cake, with the romance doing actual work. `lunch`, `compact`
 
 ## Gong-Court Strike Variants
 
