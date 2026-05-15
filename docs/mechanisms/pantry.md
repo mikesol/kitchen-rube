@@ -55,59 +55,7 @@ Use concept-art notes to choose the right visual format later:
 
 When an entry is confusing, rewrite it before generating art. The image should preserve a clear mechanical idea, not rescue vague prose.
 
-## Pass 1 Clarity Triage
-
-Clear enough on first read:
-
-- Spatula seesaw.
-- Coffee-scoop lift.
-- Captured clear tube drop.
-- Weighted funnel tipper.
-- Gravity hammer.
-- Ball reload rack.
-
-Expanded in this pass:
-
-- Accordion dominoes.
-- Vertical shutter dominoes.
-- Counterfall dominoes.
-- Domino-to-cable comb.
-- Domino sorter face.
-- Marble clutch.
-- Flip-flop gate.
-- Escaping spoon wheel.
-- Geneva recipe wheel.
-- Mechanical AND gate.
-- Three-latch braid.
-- Bell-crank relay bank.
-- Domino gap crossed by pendulum.
-
-Needs rewrite in a later clarity pass:
-
-- Recipe-page flutter delay.
-- Camshaft of appetizers.
-- Dinner fuse without fire.
-- Weight-and-pulley theater.
-- Falling domino decoder.
-- Funnel orbit to ratchet stepper.
-- Colander sorter into gong court.
-
-Best early concept-art candidates:
-
-- Accordion dominoes. `art: three-frame storyboard`
-- Counterfall dominoes. `art: ghosted-motion`
-- Marble clutch. `art: three-frame storyboard`
-- Geneva recipe wheel. `art: ghosted-motion`
-- Three-latch braid. `art: three-frame storyboard`
-- Domino gap crossed by pendulum. `art: three-frame storyboard`
-
-Best early prior-art candidates:
-
-- Geneva recipe wheel.
-- Escapements and ratchets.
-- Bell-crank relay bank.
-- Mechanical AND / OR gates.
-- Cams, dwell, and intermittent motion.
+Record clarity, concept-art, and prior-art needs on the mechanism entries themselves. Avoid adding pass logs to this document; commit history can carry the edit history.
 
 ## Trigger Gestures And Meal Selectors
 
