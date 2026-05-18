@@ -16,6 +16,22 @@ Entries may be wild, funny, overbuilt, or culturally specific. They still need t
 - Use `boundary-break` for candidates that leave the measured wall field through ceiling, floor, cabinet, or room-space paths; they need explicit later approval before layout.
 - Defer full dossier promotion until the end of Phase 3.
 
+## Shelf Discipline
+
+Phase 3 wants abundance, not padding.
+
+For each shelf, add breadth until the shelf feels stocked enough to support comparison. Major shelves can carry more entries than narrow shelves, but each pass should have a bounded addition budget. After a shelf reaches a useful density, switch from add mode to replacement mode: a new entry should land only if it is stronger than an existing one, fills a missing mechanical role, creates a new transform, or clarifies a meal-route distinction.
+
+Before adding an entry, ask:
+
+- Does it transform energy, state, timing, direction, decision, reset, or arming in a distinct way?
+- Is the object choice doing mechanical work?
+- Is it meaningfully different from existing entries?
+- Does it help breakfast, lunch, dinner, or the shared field become more mechanically legible?
+- Would a future builder be glad this idea was preserved?
+
+Do not pad a shelf with renamed variants. Cluster, replace, or stop instead.
+
 ## Pass Method
 
 1. Free-invention pass: write from appetite, object memory, mechanical intuition, and route identity.
@@ -128,6 +144,20 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Falling pantry labels** - labels tip only because they are weighted tabs; each label reveals a route instruction while opening a gate. `route-field`
 - **Spice-jar topple row** - small mason or spice jars stand on a narrow shelf as the falling bodies. They tip slower and louder than wooden dominoes and carry more momentum, so the row can be shorter for the same delivered impact. The fantasy is a pantry shelf in deliberate, controlled collapse. `route-field`
 - **Cookbook collapse** - a row of standing cookbooks leans against a single restraining pin. When the pin is pulled, the books fall sideways in sequence like dominoes, and the last book's fall presses a tab beneath it. The fantasy is a library tipping over because someone took the bookend. `route-field`, `dinner`
+- **Jacob's-ladder recipe cards** - recipe-card panels are connected by two side ribbons like the classic tumbling-block toy. Tipping the top panel makes the next panel flip through the ribbon geometry, then the next, so a short handoff becomes alternating left/right card flips; the final card tugs a release cord. `sequencer`, `wide`, `clarity: expanded`, `art: ghosted-motion`
+- **Over-center snap tabs** - each tab sits just before an over-center spring or elastic detent. A falling neighbor only nudges the next tab past center; the stored bias supplies the snap, making the cascade less dependent on exact impact energy. `route-field`, `stored-energy-risk`, `clarity: expanded`
+- **Domino escapement gate** - every falling tab pushes one tooth of a small escape wheel, and the wheel releases exactly one marble, bead, or latch tooth per tab. The falling row becomes a counted output instead of just a traveling impact. `sequencer`, `delay`, `clarity: expanded`, `clarity: needs-storyboard`
+- **Topple-to-lift rocker** - a falling paddle lands on one end of a small rocker, lifting a pin on the other end. That lifted pin releases the next standing tab above or beside it, so a downward fall can create a controlled upward signal. `transfer`, `route-field`, `clarity: expanded`, `art: ghosted-motion`
+- **Domino diode tab** - a hinged tab has an angled nose and a hard backstop. A falling piece can push it from one side and continue the sequence, but a reverse push jams against the stop, making a one-way mechanical route element. `shared`, `latch`, `clarity: expanded`
+- **Falling spoon pendulum row** - spoons hang by their handle ends on small hooks. Each released spoon swings down through a short arc, strikes the next spoon's hook, and then rests in a catch so the row cannot keep swinging loose. The falling bodies are also little pendulums. `kitchen-object`, `delay`, `clarity: expanded`, `art: ghosted-motion`
+- **Drop-target memory bank** - upright targets fall downward into slots when struck, like pinball drop targets. The fallen targets stay down as visible memory until a reset bar lifts them; a downstream comb can read which targets dropped. `sequencer`, `reset`, `clarity: expanded`
+- **Collapsing trestle support row** - tiny A-frame supports hold a light bridge or rail. Each toppled support lowers one segment, and when enough supports have fallen the bridge becomes a ramp or dumps a waiting ball. The falling bodies change structure, not just signal. `route-field`, `track`, `clarity: expanded`
+- **Hinged tray spill cascade** - each little tray holds one bean, marble, or bead. A falling tab tips the tray, the payload drops into the next tray's trigger cup, and the tray itself stays visibly fallen. The row transfers both motion and a carried payload. `sequencer`, `transfer`, `clarity: expanded`, `clarity: needs-storyboard`
+- **Bistable flipbook tiles** - tiles flip between two stable faces, fallen and armed. A route strike flips one tile, the tile's side pin flips the next, and the visible faces become a readable state line after the run. `shared`, `sequencer`, `clarity: expanded`
+- **Domino clutch pawl** - a falling tab drops into the teeth of a ratchet wheel for one tooth of travel, advances the wheel, then falls out of engagement and stays down. One toppling event becomes one indexed rotary step. `rotary`, `sequencer`, `gear`, `clarity: expanded`, `clarity: needs-storyboard`
+- **Toast-rack flap row** - flat toast-shaped paddles stand in a slotted rack. Each paddle tips forward into a padded stop and, with its lower edge, lifts the latch holding the next paddle. The rack gives breakfast a literal falling language without relying on loose objects. `breakfast`, `kitchen-object`, `clarity: expanded`
+- **Falling counterweight beadline** - small weights hang in a row behind clear guards. Releasing the first weight lets it fall a short distance and tug a thread that releases the next; each weight lands in a cup and becomes part of the visible spent-state. `delay`, `stored-energy-risk`, `reset`, `clarity: expanded`
+- **Domino fuse with service break** - a falling sequence deliberately includes a removable safety tab. With the tab installed, the row crosses the gap; with it removed, the row dies at the break. It is a physical maintenance lockout disguised as a missing domino. `safety`, `latch`, `clarity: clear`
 
 ## Rolling Bodies, Marbles, Balls, Captures, And Rails
 

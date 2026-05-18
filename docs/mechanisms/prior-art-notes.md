@@ -26,6 +26,16 @@ Brown's *507 Mechanical Movements*: cam-and-follower family clusters near moveme
 
 **Bitted keys, warded locks, and pin-tumbler logic.** A shaped key converts profile into blocker positions; the important move is that the object the user holds carries mechanical information. Sharpened **Bitted spoon key**, **Cookbook page-notch selector**, **Order-spike ticket selector**, and **Placemat hole mask**.
 
+## Domino and falling-body languages: toys, targets, pawls, collapses
+
+**Jacob's ladder tumbling-block toy.** A chain of blocks connected by ribbons makes one block flip appear to cascade down the chain, with alternating faces taking over the motion. The pantry translation keeps the visible alternating flip but makes the final card pull a real release. Sharpened **Jacob's-ladder recipe cards**.
+
+**Pinball drop-target banks.** Mechanical and electromechanical pinball machines use upright targets that fall into a locked-down state when struck, then reset as a bank. The useful move is that a falling target is also readable memory. Sharpened **Drop-target memory bank**.
+
+**Pawl-and-ratchet indexing.** Ratchets turn intermittent pushes into one-way indexed rotary steps. Brown's *507 Mechanical Movements* includes many ratchet, pawl, escapement, and intermittent-motion variants; the pantry version lets a falling tab become the temporary pawl. Sharpened **Domino clutch pawl** and **Domino escapement gate**.
+
+**Collapsing supports in chain-reaction machines.** Bridge supports, trestles, and prop sticks can be causal elements: removing or toppling the support changes the geometry of a track rather than merely signaling the next event. Sharpened **Collapsing trestle support row**.
+
 ## Theatre rigging: polyspaston, paradiso, hemp houses
 
 **Vitruvian polyspaston (*De Architectura* X.2, c. 30–15 BCE).** Greek for "many-pulley" — the Roman compound crane in which a rope was carried over a top sheave, down to a lower block, around its sheaves, and back up, multiplying lift so four winch-men could raise three thousand kilos. Plutarch's *Marcellus* records Archimedes drawing a laden ship across Syracuse harbor through the same principle; Hero of Alexandria's *Mechanica* describes a similar machine. The canonical literary anchor for block-and-tackle as spectacle of mechanical advantage.
