@@ -14,6 +14,18 @@ The pantry stays the working surface. This file is the lab notebook for prior ar
 
 Brown's *507 Mechanical Movements*: cam-and-follower family clusters near movements 95–97 (snail and heart cams illustrated as generic irregular cams); mutilated gears at 130, 133, 223, 282; intermittent gear motions at 63–76, 88, 211, 235, 241, 364, 398; Geneva stop at 212–215.
 
+## Trigger interfaces: lever frames, keys, registers, dials, coin slots
+
+**Mechanical railway lever frames and interlocking.** Signal-box levers use sliding locking bars, tappets, and notches so a route lever can physically prevent conflicting points or signals from being pulled. The relevant pantry move is not the railway theme; it is the hard mechanical rule that one selected path blocks incompatible paths. Sharpened **Signal-box meal lever frame**.
+
+**Cash-register keybanks.** Mechanical registers turned a pressed key into several simultaneous facts: the selected amount was displayed, other keys were constrained by the keybank, and a drawer or bell could fire only after the key had committed. The useful pattern is a public selected-state flag coupled to a launch interlock. Sharpened **Cash-register meal keys**.
+
+**Rotary telephone dials.** A finger wheel stores a hand input in a spring, then releases it through a governed return so the mechanism outputs a counted pulse train rather than a continuous gesture. The useful pantry translation is a meal selector whose return motion does the counting. Sharpened **Rotary-phone pulse selector**.
+
+**Coin validators and vending-machine slots.** Coin mechanisms sort by diameter, thickness, edge, mass, or magnetic behavior, then turn a valid falling object into permission for a vend. The kitchen version should keep the visible sorting and return the token for reset rather than pretending to be money. Sharpened **Coin-slot meal tokens**.
+
+**Bitted keys, warded locks, and pin-tumbler logic.** A shaped key converts profile into blocker positions; the important move is that the object the user holds carries mechanical information. Sharpened **Bitted spoon key**, **Cookbook page-notch selector**, **Order-spike ticket selector**, and **Placemat hole mask**.
+
 ## Theatre rigging: polyspaston, paradiso, hemp houses
 
 **Vitruvian polyspaston (*De Architectura* X.2, c. 30–15 BCE).** Greek for "many-pulley" — the Roman compound crane in which a rope was carried over a top sheave, down to a lower block, around its sheaves, and back up, multiplying lift so four winch-men could raise three thousand kilos. Plutarch's *Marcellus* records Archimedes drawing a laden ship across Syracuse harbor through the same principle; Hero of Alexandria's *Mechanica* describes a similar machine. The canonical literary anchor for block-and-tackle as spectacle of mechanical advantage.
