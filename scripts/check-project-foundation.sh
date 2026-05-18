@@ -13,6 +13,7 @@ required_files=(
   "docs/mechanisms/index.md"
   "docs/mechanisms/pantry.md"
   "docs/mechanisms/pantry-prompts/README.md"
+  "docs/mechanisms/prior-art-notes.md"
   "docs/mechanisms/mechanism-template.md"
   "experiments/README.md"
   "experiments/backlog.md"

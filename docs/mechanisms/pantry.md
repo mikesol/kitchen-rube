@@ -12,7 +12,8 @@ Entries may be wild, funny, overbuilt, or culturally specific. They still need t
 - Keep them organized by shelf so later passes can go deeper.
 - Add new shelves when the pantry reveals a useful distinction.
 - Do not assign exact wall coordinates.
-- Use loose fit tags only when helpful: `trigger`, `route-field`, `gong-court`, `high-wall`, `lower-caution`, `stored-energy-risk`, `compact`, `wide`, `shared`, `breakfast`, `lunch`, `dinner`, `delay`, `sequencer`, `transfer`, `sorter`, `reset`, `safety`, `kitchen-object`, `prior-art-prompt`, `rotary`, `gear`, `track`, `large-ball`, `latch`.
+- Use loose fit tags only when helpful: `trigger`, `route-field`, `gong-court`, `high-wall`, `lower-caution`, `boundary-break`, `stored-energy-risk`, `compact`, `wide`, `shared`, `breakfast`, `lunch`, `dinner`, `delay`, `sequencer`, `transfer`, `sorter`, `reset`, `safety`, `kitchen-object`, `prior-art-prompt`, `rotary`, `gear`, `track`, `large-ball`, `latch`.
+- Use `boundary-break` for candidates that leave the measured wall field through ceiling, floor, cabinet, or room-space paths; they need explicit later approval before layout.
 - Defer full dossier promotion until the end of Phase 3.
 
 ## Pass Method
@@ -135,8 +136,8 @@ Detailed subject briefs for art-tagged mechanisms live in [pantry-prompts](pantr
 - **Marble toll gate** - a ball must pay its energy into lifting a small flap, reducing speed while advancing state. `route-field`
 - **Conveyor ribbon crossing** - a small fabric ribbon runs as a horizontal loop between two pulleys, driven by a falling weight or by the previous mechanism's pull. A ball sits on the ribbon at one end; the ribbon's travel carries the ball across a gap and tips it into the next chute. The fantasy is a baggage carousel scaled down to a kitchen shelf. `track`, `transfer`
 - **Archimedes screw ball lift** - a clear tube wraps a slow internal helix, fed at the bottom by a return chute of spent balls. A hand crank or a falling counterweight turns the helix; each turn carries one ball up one pitch of the screw until it spills out of the top into the starting trough. The fantasy is the spent balls walking themselves home. `reset`, `track`
-- **Ceiling-drop pendulum entry** - a long pendulum hangs from the ceiling, far above the wall. When released, it swings down and across, just brushing a tab on the wall at the bottom of its arc. The fantasy is the wall acquiring a visitor from above — a route element that did not start on the wall at all. `route-field`, `delay`
-- **Floor-crossing trough** - a shallow covered channel runs across the floor between two cabinet bases, carrying a ball from the left neighborhood to the right. Audiences see the trough but not the ball; the ball's arrival on the far side is the visible event. The fantasy is the machine extending its reach across the room without breaking the wall's plane. `track`, `shared`
+- **Ceiling-drop pendulum entry** - a long pendulum hangs from the ceiling, far above the wall. When released, it swings down and across, just brushing a tab on the wall at the bottom of its arc. The fantasy is the wall acquiring a visitor from above — a route element that did not start on the wall at all. `route-field`, `delay`, `boundary-break`
+- **Floor-crossing trough** - a shallow covered channel runs across the floor between two cabinet bases, carrying a ball from the left neighborhood to the right. Audiences see the trough but not the ball; the ball's arrival on the far side is the visible event. The fantasy is the machine extending its reach across the room without breaking the wall's plane. `track`, `shared`, `boundary-break`
 
 ## Funnels, Sorters, Gates, And Chutes
 

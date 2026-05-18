@@ -1,12 +1,12 @@
 # Mechanisms
 
-Mechanism dossiers are provisional records. Some will become final parts of the machine; others will be retired after experiments or layout changes.
+Mechanism dossiers are provisional records. Some will become final parts of the machine; others will become experiment notes, comparison records, or parked ideas.
 
 Create one dossier per meaningful mechanism idea, proof, or integrated assembly. Copy `mechanism-template.md` and update the status as the mechanism evolves.
 
-Composition anchors (trigger area, gong-court territory, route placement) live on the measured SVG at `design/wall-layout/active-field.svg` and in `docs/concept/wall-field.md`. The Phase 2 anchor dossiers that originally held this role were retired once the Phase 3 pantry covered the same territory with more depth.
+Composition anchors (trigger area, gong-court territory, route placement) live on the measured SVG at `design/wall-layout/active-field.svg` and in `docs/concept/wall-field.md`.
 
-Phase 3 stocks the pantry. Broad ideas, wild variants, prior-art prompts, kitchen-tool transfers, route identities, and cross-category hybrids belong in `pantry.md`.
+Phase 3 stocks the pantry. Broad ideas, wild variants, prior-art prompts, kitchen-tool transfers, route identities, and cross-category hybrids belong in `pantry.md`; source-family notes belong in `prior-art-notes.md`.
 
 Do not promote new full dossiers early in Phase 3. Use the pantry to get ideas out of the system first, then run an end-of-phase promotion pass for the strongest or riskiest candidates.
 

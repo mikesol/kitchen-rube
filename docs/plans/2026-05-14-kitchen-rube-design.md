@@ -126,10 +126,14 @@ docs/
   concept/
     wall-field.md
     visual-language.md
-    meal-routes.md
   plans/
   build-log/
   mechanisms/
+    README.md
+    index.md
+    pantry.md
+    pantry-prompts/
+    prior-art-notes.md
     mechanism-template.md
   sourcing/
     vendors.md
@@ -160,12 +164,12 @@ The evolving work lives in `docs/`, `design/`, and `experiments/`: sketches, dec
 
 ## Mechanism Dossiers
 
-Mechanism dossiers are provisional records, not a fixed inventory. There may be many of them, and many may never be used in the final machine.
+Mechanism dossiers are provisional records, not a fixed inventory. Phase 3 keeps most mechanism ideas in the pantry; full dossiers are reserved for end-of-phase promotion, high-risk comparisons, PoCs, and integrated assemblies.
 
 Each dossier should capture:
 
 - Name.
-- Status: dream, sketch, PoC, integrated, retired.
+- Status: dream, sketch, PoC, integrated, parked.
 - Purpose in the causal graph.
 - Cultural or object language.
 - Input.
@@ -190,9 +194,9 @@ Create a first 90 in. by 80 in. conceptual layout with named mechanism placehold
 
 This blueprint is intentionally change-friendly. It exists to preserve fantasy and composition while experiments begin.
 
-### Milestone 3: Mechanism Dossiers
+### Milestone 3: Mechanism Pantry
 
-Create dossiers for mechanisms as they become important, risky, identity-bearing, or useful to compare. Do not limit the project to a small initial set. The dossier collection is allowed to grow, fork, and contain retired ideas.
+Stock the mechanism pantry broadly before assigning wall real estate. Capture domino languages, funnels, marble variants, kitchen-tool levers, delays, found-object transfers, sequencing ideas, meal-route identities, and prior-art references. Keep most ideas in the pantry during Phase 3, then promote only the strongest, riskiest, or most identity-bearing candidates to dossiers.
 
 ### Milestone 4: Physical PoCs
 

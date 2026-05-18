@@ -1,6 +1,6 @@
 # Prior-Art Notes
 
-This file holds the historical references consulted during Phase 3 prior-art passes — the ones that informed pantry entries, plus the ones that surfaced but did not land in the pantry this round. Notes are organized by source family. Each note names the mechanism, gives a sentence or two of evocative detail, and lists the pantry entry it sharpened. References that did not directly become entries are kept here so later passes can find them.
+This file holds historical references for Phase 3 prior-art passes. Notes are organized by source family. Each note names the mechanism, gives a sentence or two of evocative detail, and lists the pantry entry it sharpens when there is a direct pantry connection. References without a current pantry entry stay here as source material for future shelf passes.
 
 The pantry stays the working surface. This file is the lab notebook for prior art.
 
@@ -22,7 +22,7 @@ Brown's *507 Mechanical Movements*: cam-and-follower family clusters near moveme
 
 **Giacomo Torelli, Teatro Novissimo, Venice (1641, *La finta pazza*).** Pole-and-chariot sub-stage rigging: a central drum with ropes routed to several flat-trolleys, so an entire scene could be changed in full view at the turn of one drum. Torelli was a shipyard pulley engineer before he was a theatre machinist; he was nicknamed *il gran stregone*, the great sorcerer, for the choreographies he could pull off from a single hand. The hemp-house tradition that followed — sandbag-and-rope counterweight rigging in court theatres, persisting into early-twentieth-century playhouses until the **Vienna Burgtheater's 1888 counterweight system** made it obsolete — is the canonical reference for visible weight under visible rope. R. W. Boychuk's *Nobody Looks Up: The History of the Counterweight Rigging System, 1500–1925* is the standard survey.
 
-Sharpened **Pulley multiplication theater**. Also informed an earlier *Weight-and-pulley theater* dinner identity rule that required dinner pulleys to do real work; the rule was retired so that the gag mechanism could float freely across meals, and these references stay here in case a future earnest-pulley mechanism wants them.
+Sharpened **Pulley multiplication theater**. These references also remain useful for any future earnest-pulley entry that wants visible rope work to carry real load instead of only staging a gag.
 
 Brown's *507*: pulley cluster at movements 1–22; block-and-tackle at movement 14.
 

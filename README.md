@@ -16,13 +16,13 @@ Phase 3: mechanism-language pantry stocking. The working surface is `docs/mechan
 
 ## Repository Map
 
-Each entry below is path — role. Files marked **canon** are live working artifacts; **template** are reusable blanks; **plan (executed)** are historical decision records; **plan (live)** are design docs that still govern the project; **placeholder** are stubs that will fill in during later phases.
+Each entry below is path — role. Files marked **canon** are live working artifacts; **template** are reusable blanks; **plan (executed)** are completed-plan references; **plan (live)** are design docs that still govern the project; **placeholder** are stubs for later phases.
 
 ### Constitution and plans
 
 - `docs/plans/2026-05-14-kitchen-rube-design.md` — project constitution; goal, persistent rules, milestone arc. **plan (live)**
 - `docs/plans/2026-05-14-project-foundation.md` — Phase 1 implementation plan. **plan (executed)**
-- `docs/plans/2026-05-14-phase-2-measured-active-field-design.md` — Phase 2 design: measured field and original composition anchors. **plan (live, partially superseded)** — the seven anchor dossiers it commissioned were later retired in favor of the pantry.
+- `docs/plans/2026-05-14-phase-2-measured-active-field-design.md` — Phase 2 design: measured 90×80 in field, labeled composition regions, and active-field constraints. **plan (live for field constraints)**
 - `docs/plans/2026-05-14-phase-2-measured-active-field.md` — Phase 2 implementation plan. **plan (executed)**
 - `docs/plans/2026-05-14-phase-3-mechanism-language-design.md` — Phase 3 design: pantry-stocking rules. **plan (live)**
 - `docs/plans/2026-05-14-phase-3-mechanism-language.md` — Phase 3 implementation plan. **plan (executed)**
@@ -39,6 +39,7 @@ Each entry below is path — role. Files marked **canon** are live working artif
 
 - `docs/mechanisms/pantry.md` — the live mechanism language: every candidate device, every meal-route identity rule, every safety constraint by class. **canon**
 - `docs/mechanisms/pantry-prompts/` — detailed subject briefs for pantry entries that may need concept art (fourteen briefs at present). **canon**
+- `docs/mechanisms/prior-art-notes.md` — historical mechanism references and source-family notes feeding the pantry. **canon**
 - `docs/mechanisms/index.md` — map of the mechanisms directory. **canon**
 - `docs/mechanisms/README.md` — workflow orientation for the mechanisms folder. **canon**
 - `docs/mechanisms/mechanism-template.md` — blank dossier template for end-of-phase promotions. **template**
@@ -71,15 +72,15 @@ Each entry below is path — role. Files marked **canon** are live working artif
 ## Phasing
 
 - **Phase 1** — Foundation: repo skeleton, measured wall inputs, concept skeleton, checker. *Done.*
-- **Phase 2** — Measured stage: 90×80 in active field, SVG blueprint, original composition anchors. *Done; anchors later retired in favor of the pantry.*
+- **Phase 2** — Measured stage: 90×80 in active field, SVG blueprint, trigger/gong/route composition regions. *Done; field constraints remain current.*
 - **Phase 3** — Mechanism language: stock the pantry with breadth, separate mechanisms from identity rules, prepare prompt briefs for concept art. *Current.*
-- **Phase 4** — Prior-art journey + proof-of-concept work: walk the prior-art queue, promote the strongest pantry candidates to full dossiers, build risk-driven PoCs.
+- **Phase 4** — Promotion + proof-of-concept work: finish focused prior-art passes as needed, promote the strongest pantry candidates to full dossiers, build risk-driven PoCs.
 - **Phase 5** — First integrated meal path on temporary panel; revise the blueprint from real behavior.
 - **Phase 6+** — Build out, tune, document; the polished deliverable migrates into `manual/`.
 
 ## Contributing Conventions
 
-- Working tree = what is current. Git history = how we got here. Files that get superseded should be deleted with a descriptive commit message, not kept as zombies. Templates and aspirational stubs are the only exceptions.
+- Working tree = what is current. Current files should describe the present project, not every path taken to reach it. Use git history for edit history; update or remove files that no longer describe the current project shape.
 - The pantry separates **mechanisms** (concrete causal devices) from **identity rules** (constraints any mechanism in a neighborhood must obey). Apply that split to any new shelf or section.
 - Repetition is allowed as variation, escalation, inversion, or counterpoint, never as copy-paste.
 - Nothing is decorative, but many things may be deliberately overwrought.
